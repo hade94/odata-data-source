@@ -1,6 +1,6 @@
 {
-  "name": "odata-data-source",
-  "version": "1.2.0",
+  "name": "odata-data-source-material-9",
+  "version": "9.0.0",
   "license": "MIT",
   "author": "Marcin Suty",
   "description": "Data source for material table and angular cdk table that can work with OData version 4 API.",
@@ -23,9 +23,9 @@
     "type": "git"
   },
   "peerDependencies": {
-    "@angular/common": "^7.0.0",
-    "@angular/core": "^7.0.0",
-    "@angular/cdk": "^7.0.0",
+    "@angular/common": "^9.1.6",
+    "@angular/core": "^9.1.6",
+    "@angular/cdk": "^9.2.3",
     "odata-query": "^5.4.2"
   }
 }
